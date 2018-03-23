@@ -1,7 +1,5 @@
 # Multiselect.js
-Multiselect.js is simple library which can change your multiple select into dropdown with checkboxes. 
-It is full compatible with datatables.js library.
-Main js was write in ES6 and use with npm gulp which I recommend. 
+Multiselect.js is a simple library which can change your multiple select into a dropdown with checkboxes. It is fully compatible with datatables.js library. Main js was written in ES6 with use of npm gulp, which I recommend.
 
 ## Install
 1. Download multiselect.js to your js assets
